@@ -1,5 +1,6 @@
 # Individual_Assignment_4
-Lay the Ghost to Rest   
+
+# <p align="center"> Lay the Ghost to Rest </p> 
 A small horror experience created for Swansea University.  
 Explore a haunted hallway to face the ghost at the end and lay it to rest.  
 
