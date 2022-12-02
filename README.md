@@ -1,5 +1,11 @@
 # Individual_Assignment_4
+Lay the Ghost to Rest   
+A small horror experience created for Swansea University.  
+Explore a haunted hallway to face the ghost at the end and lay it to rest.  
 
+You will face:  
+Spooky flickering lamps, haunting ghost audio and background music, surprising particle effects, and more!  
+Can you Lay the Ghost to Rest?
 
 
 
