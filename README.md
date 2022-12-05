@@ -19,6 +19,14 @@ Can you Lay the Ghost to Rest?
 https://user-images.githubusercontent.com/115562974/205333157-b72559af-faf4-4abc-b237-0c66e9fb2ce3.mp4
 
 
+#### Features:
+Spooky flashing lights
+Customized hallway
+Dark fog to heighten atmosphere
+Wandering voices randomly generated and played from array
+Haunting footsteps with reverb
+Grabbable cross used to lay the ghost to rest
+Raycast detection to surprise player with steam particles
 
 
 
