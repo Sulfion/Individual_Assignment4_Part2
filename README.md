@@ -20,13 +20,18 @@ https://user-images.githubusercontent.com/115562974/205333157-b72559af-faf4-4abc
 
 
 #### Features:
-Spooky flashing lights
-Customized hallway
-Dark fog to heighten atmosphere
-Wandering voices randomly generated and played from array
-Haunting footsteps with reverb
-Grabbable cross used to lay the ghost to rest
-Raycast detection to surprise player with steam particles
+Spooky flashing lights  
+Customized hallway  
+Dark fog to heighten atmosphere  
+Wandering voices randomly generated and played from array  
+Haunting footsteps with reverb  
+Grabbable cross used to lay the ghost to rest  
+Raycast detection to surprise player with steam particles  
+Ghost who wanders randomly throughout end of level using NavMesh Agent  
+Ghost death scream/particle effect  
+Spotlights to create contrast between light/dark areas  
+Ghost shader  
+
 
 
 
