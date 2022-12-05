@@ -32,6 +32,13 @@ https://user-images.githubusercontent.com/115562974/205333157-b72559af-faf4-4abc
 * Spotlights to create contrast between light/dark areas  
 * Ghost shader  
 
+#### Development Process Log: 
+![image](https://user-images.githubusercontent.com/115562974/205723164-0f86d9fb-ad63-4885-bb19-814be820e25d.png)
+![image](https://user-images.githubusercontent.com/115562974/205723199-2b001471-3168-4798-87eb-18c9dbbb3694.png)
+![image](https://user-images.githubusercontent.com/115562974/205723218-5159eacd-2332-4b22-9709-4754e1fc8a31.png)
+![image](https://user-images.githubusercontent.com/115562974/205723230-65896a3a-933a-4903-accf-344c7432e40f.png)
+
+
 
 #### Credits:  
 * Freesound: Steam Burst  
@@ -52,7 +59,7 @@ https://user-images.githubusercontent.com/115562974/205333157-b72559af-faf4-4abc
 * Unity Asset Store: Pipes Kit  
 * Hand Models: Oculus Integration  
 
-#### Development Process Log: 
+
 
 
 
