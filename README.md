@@ -33,5 +33,26 @@ https://user-images.githubusercontent.com/115562974/205333157-b72559af-faf4-4abc
 * Ghost shader  
 
 
+#### Credits:  
+* Freesound: Steam Burst  
+* Freesound: Woman Scream  
+* Freesound: Creepy Ambient Noises  
+* Freesound: Metal Clank  
+* Freesound: Retro Footsteps  
+* Instructors & Classmates (Voice Lines): (Seb, Ted, James, Emmanuel, Ben  
+* Array Initialization Assistance: Seb  
+* Unity Asset Store: Crate and Barrels  
+* Unity Asset Store: Old “USSR” Lamp  
+* Unity Asset Store: Zombie 1  
+* Unity Asset Store: Easy Ghost Shader  
+* Unity Asset Store: Spotlight and Structure  
+* Unity Asset Store: Hana Pixel Font  
+* Unity Asset Store: Stylized Sci-fi Texture  
+* Unity Asset Store: Sc-Fi Wall Damaged  
+* Unity Asset Store: Pipes Kit  
+* Hand Models: Oculus Integration  
+
+#### Development Process Log: 
+
 
 
